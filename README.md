@@ -8,9 +8,9 @@
 
 </div>
 <p align="justified">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2vmBY1oWvy2ZlY7WSIHlZWYj9tO6pVGJumg&s"  width="120" height="240">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2vmBY1oWvy2ZlY7WSIHlZWYj9tO6pVGJumg&s"  width="220" height="240">
 </p>
----
+
 
 # 💫 About Me
 
@@ -28,11 +28,6 @@
 
 🚀 I enjoy building scalable applications, exploring modern technologies, and solving real-world problems through software and AI.
 
----
-
-
-
----
 
 # 🛠️ Tech Stack
 
@@ -60,7 +55,6 @@
 
 Machine Learning • Data Science • Generative AI • Deep Learning
 
----
 
 ## ⚙️ Tools & Platforms
 
