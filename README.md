@@ -4,7 +4,7 @@
 
 ### Software Developer • AI Enthusiast • Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies" />
 
 </div>
 
