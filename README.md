@@ -1,10 +1,10 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Abhinav Vajinapalli
+# Hi 👋 I'm Abhinav Vajinapalli
 
 <div align="center">
 
-### 🚀 AI/ML Engineer | Computer Vision Researcher | Full Stack Developer
+### Software Developer • AI Enthusiast • Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;Computer+Vision+Researcher;Full+Stack+Developer;Building+Real-World+AI+Systems;Deep+Learning+%7C+Generative+AI+%7C+LLMs" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;AI+%26+Data+Science+Enthusiast;Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -15,27 +15,38 @@
 🎓 B.Tech CSE Student at **SR University**
 🎓 BS in Data Science & Applications at **IIT Madras**
 
-💡 Passionate about:
+💡 Interested in:
 
-* Artificial Intelligence
-* Computer Vision
-* Generative AI
-* Deep Learning
+* Software Development
+* AI & Machine Learning
 * Full Stack Development
-* Building Intelligent Systems
+* Data Science
+* System Design
+* Problem Solving
 
-⚡ I love transforming ideas into impactful AI-powered applications and solving real-world problems using technology.
+🚀 I enjoy building scalable applications, exploring modern technologies, and solving real-world problems through software and AI.
 
 ---
 
-# 🌐 Connect With Me
+# 📫 Contact Information
 
-<p align="left">
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="YOUR_GITHUB_URL"><img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-<a href="mailto:abhinav.vajinapalli@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<div align="left">
+
+📧 Email: **[abhinav.vajinapalli@gmail.com](mailto:abhinav.vajinapalli@gmail.com)**
+
+🔗 LinkedIn: **YOUR_LINKEDIN_URL**
+
+💻 GitHub: **YOUR_GITHUB_URL**
+
+🌐 Portfolio: **YOUR_PORTFOLIO_URL**
+
+🧠 LeetCode: **YOUR_LEETCODE_URL**
+
+🏆 HackerRank: **YOUR_HACKERRANK_URL**
+
+📚 GeeksforGeeks: **YOUR_GFG_URL**
+
+</div>
 
 ---
 
@@ -47,15 +58,7 @@
 <img src="https://skillicons.dev/icons?i=python,java,html,css" />
 </p>
 
-## 🤖 AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-<p>
-Machine Learning • Deep Learning • Computer Vision • Generative AI • LLMs
-</p>
+---
 
 ## 🌐 Web Development
 
@@ -63,39 +66,47 @@ Machine Learning • Deep Learning • Computer Vision • Generative AI • LLM
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" />
 </p>
 
+---
+
+## 🤖 AI / Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+Machine Learning • Data Science • Generative AI • Deep Learning
+
+---
+
 ## ⚙️ Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-<p>
 BigQuery • OpenCV • NumPy • Pandas • Scikit-learn
-</p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
 ## 🚗 Real-Time Vehicle Detection & Overtaking Safety System
 
-### 🔹 Highlights
-
-* Real-time vehicle detection using **YOLOv8** & **RetinaNet**
+* Built a real-time vehicle detection and overtaking analysis system.
 * Achieved:
 
   * 📈 mAP@0.5 → **0.818**
   * 🎯 F1-score → **0.930**
-* Built:
+* Developed modules for:
 
-  * Distance Estimation Module
+  * Distance Estimation
   * Overtaking Angle Prediction
-  * Safety Classification System
-* Optimized GPU inference with mixed precision for **30+ FPS**
+  * Safety Classification
+* Optimized GPU inference for real-time performance.
 
 ### 🛠️ Tech Used
 
-`YOLOv8` `RetinaNet` `PyTorch` `OpenCV` `NumPy`
+`YOLOv8` `PyTorch` `OpenCV` `NumPy`
 
 🔗 GitHub Repo
 
@@ -103,17 +114,18 @@ BigQuery • OpenCV • NumPy • Pandas • Scikit-learn
 
 ## ✍️ Blogify – Blogging & Content Platform
 
-### 🔹 Features
+* Developed a scalable blogging platform with authentication and blog management features.
+* Implemented:
 
-* JWT & Google OAuth Authentication
-* Blog CRUD Operations
-* Likes, Comments & Bookmarks
-* Search & Pagination
-* Responsive UI & Vercel Deployment
+  * JWT Authentication
+  * Google OAuth
+  * Likes & Comments
+  * Search & Pagination
+* Designed responsive frontend and backend APIs.
 
 ### 🛠️ Tech Used
 
-`React` `Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS`
+`React` `Node.js` `Express` `MongoDB`
 
 🔗 GitHub Repo • Live Demo
 
@@ -121,26 +133,13 @@ BigQuery • OpenCV • NumPy • Pandas • Scikit-learn
 
 ## 🏥 Multimodal Transformer for Early Sepsis & Mortality Prediction
 
-### 🔹 Highlights
-
-* Built a multimodal fusion model using:
-
-  * Clinical Notes
-  * Time-Series ICU Data
-* Separate prediction heads for:
-
-  * Sepsis Prediction
-  * Mortality Prediction
-* Compared:
+* Built a multimodal AI system integrating clinical text and time-series ICU data.
+* Compared multiple approaches including:
 
   * Text-only models
   * Temporal-only models
-  * Ensemble approaches
-
-### 📊 Results
-
-* Sepsis AUROC → **0.80**
-* Mortality AUROC → **0.8188**
+  * Ensemble methods
+* Achieved strong AUROC performance on sepsis and mortality prediction tasks.
 
 ### 🛠️ Tech Used
 
@@ -150,37 +149,29 @@ BigQuery • OpenCV • NumPy • Pandas • Scikit-learn
 
 # 💼 Experience
 
-## 🔬 Computer Vision Research Intern — iHub-Data, IIIT Hyderabad
+## 🔬 Research Intern — iHub-Data, IIIT Hyderabad
 
 📅 May 2025 – Aug 2025
 
-* Designed and annotated custom datasets for computer vision tasks
-* Implemented complete YOLOv8 pipelines for:
-
-  * Object Detection
-  * Instance Segmentation
-  * Video Inference
-* Evaluated models using:
-
-  * mAP
-  * Precision/Recall
-  * Confusion Matrix
+* Worked on AI-based research projects and model evaluation.
+* Built and analyzed deep learning pipelines for image and video-based tasks.
+* Evaluated models using mAP, precision, recall, and confusion matrices.
 
 ---
 
-# 🏆 Achievements & Leadership
+# 🏆 Leadership & Achievements
 
-🌟 Vice Chair — International Student Affairs and Network Club
-
-🏅 Participated and led teams in hackathons and technical competitions.
+* 🌟 Vice Chair — International Student Affairs and Network Club
+* 🏅 Participated in hackathons and technical competitions
+* 👥 Led collaborative student initiatives and technical events
 
 ---
 
 # 📜 Certifications
 
 * 🎓 AI & ML Specialization — IIIT Hyderabad
-* 🤖 Artificial Intelligence Fundamentals — IBM SkillsBuild
 * ☁️ AWS Academy Graduate — Cloud Foundations
+* 🤖 Artificial Intelligence Fundamentals — IBM SkillsBuild
 
 ---
 
@@ -188,38 +179,28 @@ BigQuery • OpenCV • NumPy • Pandas • Scikit-learn
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&theme=tokyonight\&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight\&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&theme=tokyonight\&hide_border=false\&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&theme=tokyonight\&layout=compact)
 
 </div>
 
 ---
 
-# 🔥 Current Focus
+# 🌱 Currently Learning
 
+* Scalable System Design
 * Agentic AI Systems
-* Clinical NLP
-* Vision-Language Models
-* Advanced Deep Learning
-* Scalable AI Applications
-
----
-
-# ✨ Quote I Believe In
-
-<div align="center">
-
-### “Building intelligent systems that create real-world impact.”
-
-</div>
+* Advanced Backend Development
+* Large Language Models
+* Cloud & Deployment Technologies
 
 ---
 
 <div align="center">
 
-## 🚀 Thanks for visiting my profile!
+### ✨ “Code. Learn. Build. Improve. Repeat.”
 
 </div>
