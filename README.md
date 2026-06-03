@@ -20,7 +20,7 @@
 * Software Development
 * AI & Machine Learning
 * Full Stack Development
-* Data Science
+
 * System Design
 * Problem Solving
 
@@ -28,25 +28,7 @@
 
 ---
 
-# 📫 Contact Information
 
-<div align="left">
-
-📧 Email: **[abhinav.vajinapalli@gmail.com](mailto:abhinav.vajinapalli@gmail.com)**
-
-🔗 LinkedIn: **YOUR_LINKEDIN_URL**
-
-💻 GitHub: **YOUR_GITHUB_URL**
-
-🌐 Portfolio: **YOUR_PORTFOLIO_URL**
-
-🧠 LeetCode: **YOUR_LEETCODE_URL**
-
-🏆 HackerRank: **YOUR_HACKERRANK_URL**
-
-📚 GeeksforGeeks: **YOUR_GFG_URL**
-
-</div>
 
 ---
 
@@ -199,6 +181,20 @@ BigQuery • OpenCV • NumPy • Pandas • Scikit-learn
 
 ---
 
+# 📫 Contact Information
+
+<div align="left">
+
+📧 Email: **[abhinav.vajinapalli@gmail.com](mailto:abhinav.vajinapalli@gmail.com)**
+
+🔗 LinkedIn: **YOUR_LINKEDIN_URL**
+
+💻 GitHub: **YOUR_GITHUB_URL**
+
+🌐 Portfolio: **YOUR_PORTFOLIO_URL**
+
+
+</div>
 <div align="center">
 
 ### ✨ “Code. Learn. Build. Improve. Repeat.”
