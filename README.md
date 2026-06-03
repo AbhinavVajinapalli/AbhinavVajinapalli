@@ -7,7 +7,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies" />
 
 </div>
-
+<p align="justified">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2vmBY1oWvy2ZlY7WSIHlZWYj9tO6pVGJumg&s"  width="120" height="240">
+</p>
 ---
 
 # 💫 About Me
