@@ -7,8 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies" />
 
 </div>
-<p align="justified">
- <img src="https://www.bing.com/th/id/OGC.a2af8b5aafc93a0526b6c36e7dbf63e4?r=0&o=7&cb=thfc1falcon&pid=1.7&rm=3&rurl=https%3a%2f%2fmedia.tenor.com%2fbQCHJwgCNuMAAAAM%2fkitten-cat.gif&ehk=K%2bQyw5Jiwshk7mp6mPMjl5hElob2NuAj01ZxGUEi8oY%3d"  width="220" height="240">
+
 </p>
 
 
