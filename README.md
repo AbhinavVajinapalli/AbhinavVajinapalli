@@ -157,17 +157,6 @@ BigQuery • OpenCV • NumPy • Pandas • Scikit-learn
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&theme=tokyonight\&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&theme=tokyonight\&layout=compact)
-
-</div>
 
 ---
 
