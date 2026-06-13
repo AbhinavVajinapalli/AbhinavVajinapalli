@@ -171,11 +171,9 @@ BigQuery • OpenCV • NumPy • Pandas • Scikit-learn
 
 📧 Email: **[abhinav.vajinapalli@gmail.com](mailto:abhinav.vajinapalli@gmail.com)**
 
-🔗 LinkedIn: **YOUR_LINKEDIN_URL**
+🔗 LinkedIn: **(http://www.linkedin.com/in/abhinav-vajinapalli)**
 
-💻 GitHub: **YOUR_GITHUB_URL**
-
-🌐 Portfolio: **YOUR_PORTFOLIO_URL**
+🌐 Portfolio: **(https://abhinavvajinapalli.github.io/Portfolio/)**
 
 
 </div>
