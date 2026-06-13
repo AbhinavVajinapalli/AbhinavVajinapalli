@@ -85,7 +85,7 @@ BigQuery • OpenCV • NumPy • Pandas • Scikit-learn
 
 `YOLOv8` `PyTorch` `OpenCV` `NumPy`
 
-🔗 GitHub Repo
+🔗 [GitHub Repo](https://github.com/AbhinavVajinapalli/Real-Time-Vehicle-Detection-and-Overtaking-Safety-System.git)
 
 ---
 
@@ -104,7 +104,7 @@ BigQuery • OpenCV • NumPy • Pandas • Scikit-learn
 
 `React` `Node.js` `Express` `MongoDB`
 
-🔗 GitHub Repo • Live Demo
+🔗 [GitHub Repo](https://github.com/AbhinavVajinapalli/Blogify.git) • [Live Demo](https://blogify-inky-pi.vercel.app/)
 
 ---
 
